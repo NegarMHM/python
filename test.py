@@ -1,25 +1,25 @@
-item1 = {
+tea = {
     "type": "tea",
     "brand1": "golestan",
     "brand2": "shahrzad",
     "brand3": "tabiat",
 }
-item2 = {
+coffee = {
     "type": "coffee",
     "brand1": "starbucks",
     "brand2": "lavazza",
     "brand3": "nescafe",
     }
-item3 = {
+beer = {
     "type": "beer",
     "brand1": "albrau",
     "brand2": "tuborg",
     "brand3": "carlton draught",
 }
 menu = {
-    "item1" : item1,
-    "item2" : item2,
-    "item3" : item3,
+    "tea" : tea,
+    "coffee" : coffee,
+    "beer" : beer,
 }
 print(menu)
 
